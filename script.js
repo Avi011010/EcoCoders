@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <i data-lucide="${step.icon}" class="w-12 h-12 sm:w-16 sm:h-16 mx-auto mb-4"></i>
                 <h3 class="text-xl sm:text-2xl font-bold mb-2 sm:mb-4">${step.title}</h3>
                 <p class="mb-4 text-sm sm:text-base">${step.description}</p>
-                <a href="/tips" class="inline-block rounded-full text-sm sm:text-base bg-white text-gray-800 px-4 py-2 hover:bg-gray-100 transition-colors">
+                <a href="/tips.html" class="inline-block rounded-full text-sm sm:text-base bg-white text-gray-800 px-4 py-2 hover:bg-gray-100 transition-colors">
                     Learn More <i  data-lucide="arrow-right" class="inline-block ml-2 h-4 w-4"></i>
                 </a>
             `;
